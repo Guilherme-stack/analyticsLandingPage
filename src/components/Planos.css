@@ -1,0 +1,52 @@
+.pricing{
+    margin-top: 200px;
+    font-family: 'Poppins';
+}
+.hr{
+    background: #2A407C;
+    width: 70%;
+}
+.price{
+    color: white;
+}
+.price span{
+    font-size: 3.8rem;
+}
+.order {
+    border-radius: 20px;
+    color:white ;
+    border: 0.5px solid white;
+    cursor: pointer;
+}
+.order:hover{
+    color:#172755;
+    border: 0.5px solid white;
+    background-color: white;
+    transition: 0.6s;
+}
+.starter{
+    background-color: #0f1f4baa;
+    height: 450px;
+    width: 300px;
+    border-radius: 30px;
+}
+.standart{
+    color: #172755;
+     width: 200px;
+}
+.order-standart{
+    border-radius: 20px;
+    color:white;
+    background-color: #EF2A82;
+    border: 0.5px solid white;
+    background-color:white ;
+    border: 0.5px solid #EF2A82;
+    color: #EF2A82;
+    cursor: pointer;
+}
+.order-standart:hover{
+    color:white;
+    background-color: #EF2A82;
+    border: 0.5px solid white;
+    transition: 0.6s;
+}

@@ -1,0 +1,21 @@
+.Header{
+    
+    color: #8794BA;
+}
+.menu{
+    height: 40px;
+    line-height: 40px;
+}
+.signUp{
+    border: 1px solid gray;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+@media(max-width:1000px){
+    .m{
+        display: none;
+    }
+     
+}

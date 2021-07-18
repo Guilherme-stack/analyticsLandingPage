@@ -1,0 +1,8 @@
+.Topo{
+    background: url('./imagens/background-top.png') no-repeat;
+}
+.Bottom{
+    background: url('./imagens//background-bottom.png');
+    
+    padding-top: 100px;
+}

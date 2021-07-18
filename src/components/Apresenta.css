@@ -1,0 +1,40 @@
+.Apresenta{
+    height: 800px;
+}
+.text-apresenta{
+    margin-top: 130px;
+}
+.text-apresenta h1{
+    font-size: 45px;
+}
+.text-apresenta p{
+    font-size: 18px;
+}
+.button-apresenta{
+    background: #EF2A82;
+    color: #fff;
+    padding: 12px 90px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    cursor: pointer;
+}
+.button-apresenta:hover{
+    background-color: white;
+    border: 1px solid #EF2A82;
+    color:#EF2A82;
+    transition: 0.6s;
+}
+.banner{
+    position: absolute;
+    right: 0px;
+    width: 50%;
+    
+    top: 180px;
+}
+@media (max-width:1000px){
+    .banner{
+       display: none;
+    }
+}
